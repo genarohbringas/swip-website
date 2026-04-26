@@ -81,3 +81,4 @@ document.querySelectorAll('.amenity-item').forEach((item, index) => {
 document.querySelectorAll('.comp-card').forEach((card, index) => {
   card.style.transitionDelay = `${index * 0.1}s`;
 });
+
